@@ -6,7 +6,7 @@ In this clone version, Instead of touching, one can use a mouse to move the blad
 
 - **Topics**: Physics, 3D Models, Particle Effects
 
-> MacOS build availble only
+> [MacOS build availble only](Builds/FruitNinja-Replica.app/Contents/MacOS)
 
 ### Demo
 
