@@ -5,3 +5,5 @@
 In this clone version, Instead of touching, one can use a mouse to move the blade to slice the fruits. We can see the points on the screen after every slicing.
 
 - **Topics**: Physics, 3D Models, Particle Effects
+
+> MacOS build availble only
